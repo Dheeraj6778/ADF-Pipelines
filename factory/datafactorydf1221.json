@@ -1,0 +1,15 @@
+{
+	"name": "datafactorydf1221",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2c5d8aae-2676-42c0-b3b2-1ff619c36a73",
+		"tenantId": "aeef86d2-cbf0-4091-9f5a-4916174dc982"
+	}
+}
